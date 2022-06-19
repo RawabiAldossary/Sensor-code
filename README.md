@@ -23,8 +23,8 @@ RUN pip install  -r requirments.txt
 CMD ["python" ,"./server2.py"]
 ```
 
- - python:3.10 is the base image  , 3.10 is the tage that I want 
-for more python tage go to 
+ - python:3.10 is the base image  , 3.10 is the tag that I want 
+for more python tag go to  https://hub.docker.com/_/python
 
 
 
