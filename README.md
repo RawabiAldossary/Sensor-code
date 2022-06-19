@@ -8,7 +8,7 @@ FROM python:3.10
 RUN apt-get update & apt-get upgrade 
 
 
-WORKDIR /sever
+WORKDIR /Sensor-code
 
 
 COPY . .
@@ -29,7 +29,7 @@ for more python tage go to
 
 
 
-- WORKDIR /sever ==> is the directory of the python script
+- WORKDIR /Sensor-code ==> is the directory of the python script
 
 
 
