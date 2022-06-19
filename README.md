@@ -163,6 +163,3 @@ def ip_header(data):
   B	==> Integer	
   H	==>Integer	
   s	==> String	
-
-
-```python
