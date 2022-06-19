@@ -166,5 +166,3 @@ def ip_header(data):
 
 
 ```python
-
-```
